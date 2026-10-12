@@ -1,0 +1,3 @@
+CÉLULA ANIMAL LEGO INTERATIVA — MUDI
+
+Envie index.html e os oito arquivos celula_0.webp até celula_7.webp para a raiz de um repositório GitHub Pages. Abra o endereço HTTPS no celular. Arraste para girar, use dois dedos para zoom ou os botões. Funciona sem bibliotecas externas.
